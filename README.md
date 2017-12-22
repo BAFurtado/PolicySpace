@@ -17,7 +17,7 @@ CAPS 2018: Complexity and Policy Studies
 UNCC - George Mason University - April 18.
 
 ### Repository of produced texts
-https://www.researchgate.net/project/A-Spatially-bounded-Economic-Agent-based-Lab-SEAL
+https://www.researchgate.net/profile/Bernardo_Furtado
 
 ### Current collaborators
 Bernardo Alves Furtado, Francis Tseng
@@ -40,6 +40,8 @@ Flask-WTF WTForms psutil -c conda-forge`
 Using the above code will install the libraries.
 Then, you have to activate the newly created environment with the command: activate <your_env>.
 If any of the libraries were not available on conda-forge, use `pip install -U scikit-learn`, for example.
+
+** Unzip file mun_ibge_2014_latlong_wgs1984_fixed.zip **
 
 ## How to run the model ##
 
@@ -136,7 +138,7 @@ In Windows, make sure to use double quotes " " and backward slashes as in:
 
 ```
 python main.py make_plots
-"\\storage4\carga\MODELO DINAMICO DE SIMULACAO\Exits_python\JULY\acps__2017-10-31T16_49_53.970313\run__2017-11-01T11_59_59.240250_bh"
+"..\run__2017-11-01T11_59_59.240250_bh"
 ```
 
 ### Running the web interface
