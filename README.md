@@ -1,6 +1,8 @@
 # PolicySpace
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
+Available here in Portuguese [Soon in English]: 
+http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=32743&Itemid=433
 
 This is an open agent-based model with three markets and a tax scheme that empirically simulates 46 Brazilian
 metropolitan regions.
@@ -10,11 +12,11 @@ The author acknowledges receiving a grant of productivity by National Council of
 
 This work is licensed under GNU General Public License v3.0
 
-### Recent publication
+### English summary 
 
-PolicySpace: a modeling platform. (submitted to)
+PolicySpace: a modeling platform. (accepted to) https://arxiv.org/abs/1801.00259
 CAPS 2018: Complexity and Policy Studies
-UNCC - George Mason University - April 18.
+UNCC - George Mason University - April 18 (but not presented).
 
 ### Repository of produced texts
 https://www.researchgate.net/profile/Bernardo_Furtado
