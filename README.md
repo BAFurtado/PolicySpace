@@ -1,7 +1,9 @@
+
 # PolicySpace
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
 Available here in English: http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=33132&Itemid=433
+
 Also available in Portuguese: 
 http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=32743&Itemid=433
 
