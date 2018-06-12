@@ -1,7 +1,8 @@
 # PolicySpace
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
-Available here in Portuguese [Soon in English]: 
+Available here in English: http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=33132&Itemid=433
+Also available in Portuguese: 
 http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=32743&Itemid=433
 
 This is an open agent-based model with three markets and a tax scheme that empirically simulates 46 Brazilian
