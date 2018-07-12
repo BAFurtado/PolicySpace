@@ -1,4 +1,4 @@
-# PolicySpace
+ # PolicySpace
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
 Available here in English: http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=33132&Itemid=433
@@ -10,7 +10,7 @@ This is an open agent-based model with three markets and a tax scheme that empir
 metropolitan regions.
 
 Developed by Bernardo Alves Furtado, funded by Institute of Applied Economic Research (IPEA).
-The author acknowledges receiving a grant of productivity by National Council of Research (CNPq).
+The author acknowledges receiving a grant of productivity by National Council of Research (CNPq). Isaque Daniel Rocha Eberhardt and Francis Tseng were fundamental contributors (see below for participation details).
 
 This work is licensed under GNU General Public License v3.0
 
