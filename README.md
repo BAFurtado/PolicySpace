@@ -1,4 +1,3 @@
-
 # PolicySpace
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
@@ -46,7 +45,9 @@ Using the above code will install the libraries.
 Then, you have to activate the newly created environment with the command: activate <your_env>.
 If any of the libraries were not available on conda-forge, use `pip install -U scikit-learn`, for example.
 
-** Unzip file mun_ibge_2014_latlong_wgs1984_fixed.zip **
+### Don't forget!
+
+Extract/Unzip file mun_ibge_2014_latlong_wgs1984_fixed.zip
 
 ## How to run the model ##
 
