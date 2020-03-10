@@ -1,6 +1,6 @@
  # PolicySpace
  
- # PolicySpace2 -- in-development now available at http://www.github.com/bafurtado/policyspace2
+ ### PolicySpace2 -- in-development -- now available at http://www.github.com/bafurtado/policyspace2
 
 ### Please, cite as: FURTADO, Bernardo Alves. PolicySpace: agent-based modeling. IPEA: Brasília, 2018.
 Available here in English: http://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=33132&Itemid=433
